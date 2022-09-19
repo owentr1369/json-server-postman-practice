@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 9",
+      "price": 549,
+      "brand": "Apple",
+      "thumbnail": "https://dummyjson.com/image/i/products/1/thumbnail.jpg"
+    },
+    {
+      "title": "Test2",
+      "price": "1500",
+      "brand": "Apple",
+      "thumbnail": "https://www.google.com/",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "Samsung Universe 9",
+      "price": 1249,
+      "brand": "Samsung",
+      "thumbnail": "https://dummyjson.com/image/i/products/3/thumbnail.jpg"
+    },
+    {
+      "title": "Test",
+      "price": "1000",
+      "brand": "Xiaomy",
+      "thumbnail": "https://www.google.com/",
+      "id": 4
+    }
+  ]
+}
